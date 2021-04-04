@@ -1,5 +1,5 @@
 # dauntless
-Game concept. Theme: Discovery.
+Game concept. Theme: Discovery.//
 
 Premise: A new island rich with treasure has been discovered. Work together to uncover ancient artifacts, combine them into sets, and sell them to the museum. 
 Houses: Players will be divided into THREE houses (based on their discord badges or personal choice). A leaderboard will keep track of which house has the most points.
