@@ -4,7 +4,8 @@ Game concept. Theme: Discovery.//
 Premise: A new island rich with treasure has been discovered. Work together to uncover ancient artifacts, combine them into sets, and sell them to the museum. 
 Houses: Players will be divided into THREE houses (based on their discord badges or personal choice). A leaderboard will keep track of which house has the most points.
 
-POINTS will be earned by DONATING items to the museum. CURRENCY will be earned by SELLING sets to the museum. Sets will consist of four items of the same type or element. ITEMS will be obtained from the MARKETPLACE or from ADVENTURES.
+POINTS will be earned by DONATING items to the museum. CURRENCY will be earned by SELLING sets to the museum. Sets will consist of four items of the same type or element. ITEMS will be obtained from the MARKETPLACE or from ADVENTURES. Once a player has donated every artifact and mineral to the museum, they will receive a reward. 
+
 Items: 
   Artifacts:     (80%)
      Air Scepter
@@ -50,4 +51,5 @@ ALCHEMY: A player with Alchemist's Beaker can convert any mineral into any other
 COMBAT: A player with Warrior's Helm can attack another player every two(2) hours provided that player does not have Mage's Robe. An attack will be succesful 50% of the time and if successful will result in theft of one random artifact or mineral. 
 
 Players can add items to the MARKETPLACE for a set price. Other players will be able to purchase those items for currency. 
+
 end of the rules. explore and have fun. 
